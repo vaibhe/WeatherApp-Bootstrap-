@@ -2,6 +2,8 @@ body{
     font-family: 'Montserrat', sans-serif;
 
   }
+
+ 
  
   .col {
     background: #000000d0;
@@ -29,8 +31,9 @@ body{
 .footer-text{
   text-align: center; 
   color: whitesmoke;
+  font-weight: 700;
   position: relative;
-  top: 15px;
+  top: 18px;
 }
 
 .pic{
@@ -53,6 +56,10 @@ body{
   height: 720px;
   object-fit: contain;
 }
+
+/* .row{
+  padding-bottom: 2.5rem;
+} */
 
 
 }
